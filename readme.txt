@@ -5,4 +5,4 @@ Git tracks changes of file
 Creating a new branch is quick and simple.
 fixed branch --no-ff merge
 
-dev : play game end
+dev : play game endnew line
